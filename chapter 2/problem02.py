@@ -15,5 +15,5 @@ Students.append(Student5_marks)
 Students.append(Student6_marks)
 
 Students.sort()
-print(Students)
-
+# Students[1] + Students[2]  +Students[3] +Students[4] +Students[5] + Students[6]
+print(sum(Students)) 
