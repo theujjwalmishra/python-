@@ -1,13 +1,13 @@
-# # best way to open and close 
+# best way to open and close 
 
-# # read operations
-# with open("ujjwal.txt") as a:
-#     print(a.read())
+# read operations
+with open("ujjwal.txt") as a:
+    print(a.read())
 
-# # with variables
-# with open("ujjwal.txt") as a:
-#     b = a.read()
-#     print()
+# with variables
+with open("ujjwal.txt") as a:
+    b = a.read()
+    print()
 
 # write operations
 with open("new.txt","w") as a:
